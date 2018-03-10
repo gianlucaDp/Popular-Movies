@@ -9,6 +9,8 @@ This project is to show how:
 - Work with API
 - Use of Async Task Loader to do network operation
 - RecyclerView usage
+- Use of SQLite
+- Build of a Content Provider
 
 =======
 
