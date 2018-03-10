@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content" android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/im_movie_trailer"
+        android:contentDescription="@string/trailer_frame"
+        android:layout_width="200dp"
+        android:layout_height="150dp"
+        android:adjustViewBounds="true"/>
+    <ImageView
+        android:contentDescription="@string/play_button"
+        app:srcCompat="@drawable/ic_play_circle_outline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"/>
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="detail_background_img_size">150dp</dimen>
+    <dimen name="detail_movie_title_size">30sp</dimen>
+    <dimen name="detail_movie_year_size">25sp</dimen>
+    <dimen name="detail_movie_element_title_size">15sp</dimen>
+    <dimen name="detail_movie_score_size">20sp</dimen>
+    <dimen name="detail_overview_size">17sp</dimen>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="overview">Overview</string>
+    <string name="poster_img_content_description">Movie Poster</string>
+    <string name="movie_screenshot">Movie Screenshot</string>
+    <string name="network_error">"No network found please check"</string>
+    <string name="load_more">Load More</string>
+    <string name="sort_by_popularity">View Most Popular</string>
+    <string name="sort_by_rating">View Most Rated</string>
+    <string name="poster">Poster</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Release date</string>
+    <string name="movie_rating_max">" / 10.0"</string>
+    <string name="not_present">Not present</string>
+    <string name="remove_from_favorite">Remove From Favorite</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="no_connection_movie_detail">No network Found, trailers and reviews will not be available</string>
+    <string name="trailer_frame">trailer frame</string>
+    <string name="play_button">Play Button</string>
+    <string name="view_favorites">View Favorites</string>
+    <string name="movie_added">Movie added to favorite list</string>
+    <string name="movie_removed">Movie removed from favorites</string>
+</resources>
