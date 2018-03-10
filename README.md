@@ -1,10 +1,10 @@
 # Popular Movie
 Project for the Android Developer Nanodegree Program
 ## Project Overview
-The Popular Movie app show you a list of movies, can be sorted by  popularity and rating, and clicking on a movie poster you can see the movie details
+The Popular Movie app show you a list of movies, can be sorted by popularity and rating, and clicking on a movie poster you can see the movie details, trailers and reviews. You can also save your favorite movie on a local database.
 
 ## Project Details
-This project is to show how:
+Purpose of the project:
 - Use of real data
 - Work with API
 - Use of Async Task Loader to do network operation
