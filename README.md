@@ -6,13 +6,13 @@ The Popular Movie app show you a list of movies, can be sorted by popularity and
 ## Project Details
 Purpose of the project:
 - Use of real data
+- Save app status during rotation / pause
 - Work with API
 - Use of Async Task Loader to do network operation
 - RecyclerView usage
 - Use of SQLite
 - Build of a Content Provider
 
-=======
 
 ## API key
 To launch this project you need an api key from https://www.themoviedb.org/ (free registration)
